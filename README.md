@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @nicosmith13
-- 👀 I’m interested in computer science
-- 🌱 I’m currently learning Java, html, css, javascript
+- 👀 I’m a computer science student
+- 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: nicozelek9@gmail.com
+- 📫 How to reach me: nico.zelek9@gmail.com
 
 <!---
 nicosmith13/nicosmith13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
